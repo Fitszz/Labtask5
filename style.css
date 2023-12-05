@@ -76,7 +76,7 @@ a .icon{
     line-height: 75px;
     font-size: 1.5em;
     text-align: center;
-    transition: 0.2s;
+    transition: 0.5s;
 }
 
 li.active a .icon {
@@ -107,7 +107,7 @@ li.active a .text {
     box-sizing: border-box;
     border-radius: 50%;
     border: 6px solid #ffffff;
-    transition: 0.2s;
+    transition: 0.5s;
 }
 
 .indicator::before,
