@@ -151,6 +151,7 @@ li:nth-child(3).active~.indicator{ --x: 255px; }
     overflow: hidden;
     transition: max-height 0.2s ease-out;
     background-color: #f1f1f1;
+    width: auto;
   }
 
   .content2 {
@@ -167,6 +168,7 @@ main {
     min-height: 850px;
     margin-top: 10px;
     text-align: left;
+    width: auto;
 }
 
 .center {
@@ -178,7 +180,7 @@ main {
 
 table {
     border-collapse: collapse;
-    width: 450px;
+    width: auto;
     margin-bottom: 10px;
     margin-left: auto;
     margin-right: auto;
